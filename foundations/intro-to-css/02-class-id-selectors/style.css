@@ -1,0 +1,18 @@
+.odd-ele {
+background-color: rgb(255, 0, 234);
+font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+
+#second-ele {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.big-font {
+    font-size: 24px;
+}
+
+#forth-ele {
+    background-color: green;
+    font-weight: bold;
+}
